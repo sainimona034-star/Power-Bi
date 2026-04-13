@@ -27,18 +27,26 @@ Age vs. Usage (Scatter Plot): Identifies if older or younger students spend more
 
 
 💡 Insights, Impact, and Recommendations
-1. Key Insights 
+1. Key Insights
+
 a) Platform Dominance: Specific platforms (like Instagram or TikTok) show significantly higher engagement levels, suggesting they are the primary drivers of student usage
+
 b) Usage Correlation: There is a clear correlation between academic levels and the intensity of social media engagement, with usage peaking during specific student life stages.
 
 
-2. Impact
+3. Impact
+   
 a) Academic Performance: Excessive usage patterns identified in the data can lead to decreasedfocus and a potential decline in academic productivity.
+
 b) Mental Well-being: High frequency andlong-duration usage are potential indicators of digital dependency, which can affect student sleep cycles and stress levels.
+
 c) Social Connectivity: While these platforms offer connection, the data suggests a trend toward "passive consumption," which may impact real-world social skill development
 
 
 3.Recommendations
+
 a) Digital Literacy Programs: Educational institutions should implement workshops focused on mindful social media consumption and time management
+
 b) Platform-Level Controls: Encourage students to utilize "Digital Wellbeing" tools and app timers to monitor and limit daily exposure.
+
 c) Further Research: Future studies should integrate qualitative data (interviews) with this quantitative analysis to better understand the emotional triggers behind high-usage patterns.
