@@ -1,14 +1,20 @@
 <h1 align="center">
-  <b><span style="color:red;">📱 Student Digital Addiction Analytics</span></b>
+  <b><span style="color:#FF0000;">📱 Student Digital Addiction Analytics</span></b>
 </h1>
 
 <h3 align="center">
-  <b><span style="color:blue;">Power BI | DAX | Behavioral Data Analysis</span></b>
+  <b><span style="color:#1565C0;">Power BI | DAX | Behavioral Data Analysis</span></b>
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-green?style=for-the-badge&logo=mysql"/>
+</p>
 
 ---
 
-<h2><b><span style="color:#FF5733;">📊 Project Overview</span></b></h2>
+<h2><b><span style="color:#E91E63;">📊 Project Overview</span></b></h2>
 
 This project analyzes how social media usage impacts students’ sleep, academic performance, mental health, and personal relationships using an interactive Power BI dashboard.
 
@@ -18,7 +24,33 @@ This project simulates a real-world analytical reporting solution used to study 
 
 ---
 
-<h2><b><span style="color:#9C27B0;">🎯 Business Objective</span></b></h2>
+<h2><b><span style="color:#6A1B9A;">🖼 Dashboard Preview</span></b></h2>
+
+<h3><b><span style="color:#FF6F00;">📌 Executive Overview Dashboard</span></b></h3>
+
+<p align="center">
+  <img src="dashboard_screenshots/executive_overview.png" width="900">
+</p>
+
+---
+
+<h3><b><span style="color:#FF6F00;">📌 Relationship & Conflict Analysis Dashboard</span></b></h3>
+
+<p align="center">
+  <img src="dashboard_screenshots/relationship_analysis.png" width="900">
+</p>
+
+---
+
+<h3><b><span style="color:#FF6F00;">📌 Mental Health & Sleep Pattern Dashboard</span></b></h3>
+
+<p align="center">
+  <img src="dashboard_screenshots/mental_health_analysis.png" width="900">
+</p>
+
+---
+
+<h2><b><span style="color:#00897B;">🎯 Business Objective</span></b></h2>
 
 This analysis answers key business questions such as:
 
@@ -30,7 +62,7 @@ This analysis answers key business questions such as:
 
 ---
 
-<h2><b><span style="color:#00897B;">🧰 Tools & Technologies</span></b></h2>
+<h2><b><span style="color:#D81B60;">🧰 Tools & Technologies</span></b></h2>
 
 * Power BI
 * Power Query
@@ -42,7 +74,7 @@ This analysis answers key business questions such as:
 
 ---
 
-<h2><b><span style="color:#E91E63;">📁 Dataset Overview</span></b></h2>
+<h2><b><span style="color:#1E88E5;">📁 Dataset Overview</span></b></h2>
 
 The dataset contains student behavioral and engagement data including:
 
@@ -58,13 +90,19 @@ The dataset contains student behavioral and engagement data including:
 
 ---
 
-<h2><b><span style="color:#3F51B5;">📈 Dashboard Pages</span></b></h2>
+<h2><b><span style="color:#EF6C00;">📈 Dashboard Pages</span></b></h2>
 
-<h3><b><span style="color:#FF6F00;">1️⃣ Executive Overview</span></b></h3>
+<img width="1124" height="660" alt="image" src="https://github.com/user-attachments/assets/c65d3ed8-7134-4a37-9d5b-2e59e3c414dd" />
+<img width="1097" height="712" alt="image" src="https://github.com/user-attachments/assets/595805fb-17f9-459d-9eb3-580f319b6810" />
+<img width="1055" height="644" alt="image" src="https://github.com/user-attachments/assets/a7fc910c-441c-4510-bab1-1b334ac6fd3e" />
+<img width="1119" height="653" alt="image" src="https://github.com/user-attachments/assets/5387a898-5ec1-4042-b9cb-652adb78115e" />
+
+
+<h3><b><span style="color:#3949AB;">1️⃣ Executive Overview</span></b></h3>
 
 High-level summary of student behavior trends.
 
-<h4><b><span style="color:#009688;">Key KPIs:</span></b></h4>
+<h4><b><span style="color:#00897B;">Key KPIs:</span></b></h4>
 
 * Average Daily Social Media Usage
 * Average Sleep Hours
@@ -73,7 +111,7 @@ High-level summary of student behavior trends.
 
 ---
 
-<h3><b><span style="color:#FF6F00;">2️⃣ Academic Performance Analysis</span></b></h3>
+<h3><b><span style="color:#3949AB;">2️⃣ Academic Performance Analysis</span></b></h3>
 
 Analyzes relationships between:
 
@@ -83,7 +121,7 @@ Analyzes relationships between:
 
 ---
 
-<h3><b><span style="color:#FF6F00;">3️⃣ Sleep Pattern Analysis</span></b></h3>
+<h3><b><span style="color:#3949AB;">3️⃣ Sleep Pattern Analysis</span></b></h3>
 
 Analyzes:
 
@@ -93,7 +131,7 @@ Analyzes:
 
 ---
 
-<h3><b><span style="color:#FF6F00;">4️⃣ Mental Health Analysis</span></b></h3>
+<h3><b><span style="color:#3949AB;">4️⃣ Mental Health Analysis</span></b></h3>
 
 Evaluates:
 
@@ -103,7 +141,7 @@ Evaluates:
 
 ---
 
-<h3><b><span style="color:#FF6F00;">5️⃣ Relationship Impact Analysis</span></b></h3>
+<h3><b><span style="color:#3949AB;">5️⃣ Relationship Impact Analysis</span></b></h3>
 
 Analyzes:
 
@@ -112,7 +150,7 @@ Analyzes:
 
 ---
 
-<h2><b><span style="color:#D50000;">🔍 Key Insights</span></b></h2>
+<h2><b><span style="color:#C62828;">🔍 Key Insights</span></b></h2>
 
 * Higher social media usage is associated with lower academic performance.
 * Increased screen time correlates with reduced sleep hours.
@@ -122,7 +160,7 @@ Analyzes:
 
 ---
 
-<h2><b><span style="color:#6A1B9A;">💼 Business Value</span></b></h2>
+<h2><b><span style="color:#8E24AA;">💼 Business Value</span></b></h2>
 
 This analysis can help:
 
@@ -146,7 +184,7 @@ This project showcases:
 
 ---
 
-<h2><b><span style="color:#EF6C00;">📂 Repository Structure</span></b></h2>
+<h2><b><span style="color:#F57C00;">📂 Repository Structure</span></b></h2>
 
 ```bash
 screenpulse-student-digital-addiction-analytics
@@ -164,3 +202,38 @@ screenpulse-student-digital-addiction-analytics
 │   └── relationship_analysis.png
 │
 └── README.md
+```
+
+---
+
+<h2><b><span style="color:#2E7D32;">🎓 Learning Outcomes</span></b></h2>
+
+Through this project, I strengthened my ability to:
+
+* Build end-to-end Power BI dashboards
+* Apply behavioral data analysis techniques
+* Use DAX for KPI reporting
+* Transform raw data into actionable insights
+* Present insights through dashboard storytelling
+
+---
+
+<h2><b><span style="color:#AD1457;">📬 Connect With Me</span></b></h2>
+
+<h3><b><span style="color:#512DA8;">LinkedIn</span></b></h3>
+
+https://www.linkedin.com/in/mona-saini-863b6b379
+
+<h3><b><span style="color:#512DA8;">GitHub</span></b></h3>
+
+https://github.com/sainimona034-star
+
+<h3><b><span style="color:#512DA8;">Email</span></b></h3>
+
+[monasaini332@gmail.com](mailto:monasaini332@gmail.com)
+
+---
+
+<h3 align="center">
+  ⭐ <span style="color:#FF9800;"><b>If you found this project useful, consider giving it a star.</b></span>
+</h3>
