@@ -24,32 +24,6 @@ This project simulates a real-world analytical reporting solution used to study 
 
 ---
 
-<h2><b><span style="color:#6A1B9A;">🖼 Dashboard Preview</span></b></h2>
-
-<h3><b><span style="color:#FF6F00;">📌 Executive Overview Dashboard</span></b></h3>
-
-<p align="center">
-  <img src="dashboard_screenshots/executive_overview.png" width="900">
-</p>
-
----
-
-<h3><b><span style="color:#FF6F00;">📌 Relationship & Conflict Analysis Dashboard</span></b></h3>
-
-<p align="center">
-  <img src="dashboard_screenshots/relationship_analysis.png" width="900">
-</p>
-
----
-
-<h3><b><span style="color:#FF6F00;">📌 Mental Health & Sleep Pattern Dashboard</span></b></h3>
-
-<p align="center">
-  <img src="dashboard_screenshots/mental_health_analysis.png" width="900">
-</p>
-
----
-
 <h2><b><span style="color:#00897B;">🎯 Business Objective</span></b></h2>
 
 This analysis answers key business questions such as:
