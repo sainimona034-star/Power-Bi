@@ -1,52 +1,166 @@
-Students' Social Media Addiction Analysis
+<h1 align="center">
+  <b><span style="color:red;">📱 Student Digital Addiction Analytics</span></b>
+</h1>
 
-📄 Project Overview
-This project explores the relationship between student demographics and social media usage patterns. Using data visualization,
-the project identifies potential addiction triggers and consumption habits across different platforms.
+<h3 align="center">
+  <b><span style="color:blue;">Power BI | DAX | Behavioral Data Analysis</span></b>
+</h3>
 
-📊 Key Research Pointers
+---
 
-User Demographics: Analysis of student age, gender, and academic level to identify high-risk groups for social media addiction
-Platform Engagement: A breakdown of time spent across various social media platforms to determine which apps dominate student attention.
-Addiction Metrics: Tracking usage frequency and intensity to visualize the scale of social media dependency among surveyed students.
+<h2><b><span style="color:#FF5733;">📊 Project Overview</span></b></h2>
 
+This project analyzes how social media usage impacts students’ sleep, academic performance, mental health, and personal relationships using an interactive Power BI dashboard.
 
-🛠️ Technical Stack
+The objective is to transform raw behavioral data into actionable insights through data modeling, visualization, and dashboard storytelling.
 
-Data Source: Student and Platform details extracted from the "Students Social Media Addiction" dataset.
-Tools: Tableau / Power BI for interactive dashboarding.
+This project simulates a real-world analytical reporting solution used to study digital behavior trends and student behavioral patterns.
 
-📈 Visualizations to Include
-Note: To add these, take screenshots of your charts and drag them here!
+---
 
+<h2><b><span style="color:#9C27B0;">🎯 Business Objective</span></b></h2>
 
-https://github.com/user-attachments/assets/67731f5b-d60c-4ecc-b33b-9fc36c1fb4b7
+This analysis answers key business questions such as:
 
-Platform Popularity (Bar Chart): Shows which platforms have the highest total usage time.
-Age vs. Usage (Scatter Plot): Identifies if older or younger students spend more time on social media.
+* Does higher social media usage affect academic performance?
+* How does screen time impact sleep duration?
+* Is social media addiction linked to mental health issues?
+* Which social media platforms have the highest engagement?
+* Are there demographic differences across age, gender, or country?
 
+---
 
-💡 Insights, Impact, and Recommendations
-1. Key Insights
+<h2><b><span style="color:#00897B;">🧰 Tools & Technologies</span></b></h2>
 
-a) Platform Dominance: Specific platforms (like Instagram or TikTok) show significantly higher engagement levels, suggesting they are the primary drivers of student usage
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Dashboard Design
+* Data Visualization
+* KPI Reporting
 
-b) Usage Correlation: There is a clear correlation between academic levels and the intensity of social media engagement, with usage peaking during specific student life stages.
+---
 
+<h2><b><span style="color:#E91E63;">📁 Dataset Overview</span></b></h2>
 
-3. Impact
-   
-a) Academic Performance: Excessive usage patterns identified in the data can lead to decreasedfocus and a potential decline in academic productivity.
+The dataset contains student behavioral and engagement data including:
 
-b) Mental Well-being: High frequency andlong-duration usage are potential indicators of digital dependency, which can affect student sleep cycles and stress levels.
+* Daily Social Media Usage Hours
+* Academic Performance Score
+* Sleep Hours
+* Mental Health Score
+* Relationship Status
+* Age Group
+* Gender
+* Country
+* Primary Social Media Platform
 
-c) Social Connectivity: While these platforms offer connection, the data suggests a trend toward "passive consumption," which may impact real-world social skill development
+---
 
+<h2><b><span style="color:#3F51B5;">📈 Dashboard Pages</span></b></h2>
 
-3.Recommendations
+<h3><b><span style="color:#FF6F00;">1️⃣ Executive Overview</span></b></h3>
 
-a) Digital Literacy Programs: Educational institutions should implement workshops focused on mindful social media consumption and time management
+High-level summary of student behavior trends.
 
-b) Platform-Level Controls: Encourage students to utilize "Digital Wellbeing" tools and app timers to monitor and limit daily exposure.
+<h4><b><span style="color:#009688;">Key KPIs:</span></b></h4>
 
-c) Further Research: Future studies should integrate qualitative data (interviews) with this quantitative analysis to better understand the emotional triggers behind high-usage patterns.
+* Average Daily Social Media Usage
+* Average Sleep Hours
+* Average Academic Score
+* Average Mental Health Score
+
+---
+
+<h3><b><span style="color:#FF6F00;">2️⃣ Academic Performance Analysis</span></b></h3>
+
+Analyzes relationships between:
+
+* Social media usage vs academic score
+* High-usage vs low-usage student performance
+* Performance distribution by demographics
+
+---
+
+<h3><b><span style="color:#FF6F00;">3️⃣ Sleep Pattern Analysis</span></b></h3>
+
+Analyzes:
+
+* Sleep reduction due to social media usage
+* Usage-hour impact on sleep duration
+* Behavioral trends across age groups
+
+---
+
+<h3><b><span style="color:#FF6F00;">4️⃣ Mental Health Analysis</span></b></h3>
+
+Evaluates:
+
+* Addiction level vs mental health score
+* Social media impact on emotional wellbeing
+* Platform-level mental health patterns
+
+---
+
+<h3><b><span style="color:#FF6F00;">5️⃣ Relationship Impact Analysis</span></b></h3>
+
+Analyzes:
+
+* Social media usage and relationship quality
+* Behavioral differences across demographic groups
+
+---
+
+<h2><b><span style="color:#D50000;">🔍 Key Insights</span></b></h2>
+
+* Higher social media usage is associated with lower academic performance.
+* Increased screen time correlates with reduced sleep hours.
+* High-addiction users show lower mental health scores.
+* Certain platforms demonstrate significantly higher engagement levels.
+* Usage behavior varies across demographics and regions.
+
+---
+
+<h2><b><span style="color:#6A1B9A;">💼 Business Value</span></b></h2>
+
+This analysis can help:
+
+* Educational institutions monitor student wellbeing
+* Researchers study digital behavior trends
+* Policy makers understand social media impacts
+* Organizations make data-driven intervention decisions
+
+---
+
+<h2><b><span style="color:#1565C0;">🧠 Skills Demonstrated</span></b></h2>
+
+This project showcases:
+
+* Data Cleaning using Power Query
+* DAX Measures & KPI Modeling
+* Interactive Dashboard Development
+* Behavioral Data Analysis
+* Analytical Storytelling
+* Business Insight Generation
+
+---
+
+<h2><b><span style="color:#EF6C00;">📂 Repository Structure</span></b></h2>
+
+```bash
+screenpulse-student-digital-addiction-analytics
+│
+├── dashboard/
+│   └── screenpulse_dashboard.pbix
+│
+├── dataset/
+│   └── social_media_usage_dataset.csv
+│
+├── dashboard_screenshots/
+│   ├── executive_overview.png
+│   ├── academic_analysis.png
+│   ├── mental_health_analysis.png
+│   └── relationship_analysis.png
+│
+└── README.md
